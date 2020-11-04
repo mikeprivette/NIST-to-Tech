@@ -13,3 +13,4 @@
 | Qualys      | Vulnerability Scanner | Vulnerability Scanner             | Identify      | Asset Management               | ID.AM   |
 | Qualys      | Vulnerability Scanner | Vulnerability Scanner             | Detect        | Detection Processes            | DE.PR   |
 | Tanium      | Tanium Core           | Next-Gen Anti-malware / EDR       | Detect        | Security Continuous Monitoring | DE.CM   |
+| Tanium      | Tanium Configuration  | Configuration Monitoring          | Detect        | Security Continuous Monitoring | DE.CM   |
