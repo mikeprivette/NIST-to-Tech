@@ -14,7 +14,7 @@ What's not included in the framework, however (and rightfully so), is a guide on
 
 Organizations are all complex in different ways. Technology and it's implementation is nuanced and results can often vary. There is no one-size-fits-all or truisms when it comes to technology, other than the fact that every organization needs technology and needs ways to secure their business.
 
-This project is meant to be a guide and a starting point to help the community in making cybersecurity technology decisions that map to the NIST CSF.
+This project is meant to be a guide and a starting point to help the community in making cybersecurity technology decisions that map to the NIST CSF. This will give you a framework to see how your current tools measure up and see what you may be missing and need to consider.
 
 ## The Tools
 
