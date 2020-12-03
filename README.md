@@ -18,4 +18,14 @@ This project is meant to be a guide and a starting point to help the community i
 
 ## The Tools
 
-[Here is the mapping](ToolMapping.md). Please feel free to fork and/or add issues/PRs to help make this work better for everyone.
+[Here is the mapping](ToolMapping.md).
+
+## Contributing
+
+Please feel free to fork and/or add issues/PRs to help make this work better for everyone. If anyone has a better way to display this, I'm all ears!
+
+## Discoverability
+
+infosec, information security, cybersec, cyber security, cybersecurity, netsec, hacking
+pentest, penetration test, red team, blue team, purple team
+nist, nist csf, cybersercurity framework, identify, detect, protect, respond, recover
