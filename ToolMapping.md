@@ -3,6 +3,7 @@
 | AlgoSec           | Firewall Analyzer     | Firewall Rule Analysis                           | Detect        | Security Continuous Monitoring       |
 | Area 1 Security   | Horizon               | Anti-Phishing and Email Protection               | Protect       | Protective Technology                |
 | Armis             | Armis Platform        | Asset Management / Secure OT/ICS                 | Identify      | Asset Management                     |
+| Bugcrowd          | Vulnerability Disclosure | Vulnerability Monitoring / Public Disclosure  | Identify      | Risk Assessment                      |
 | Cofense           | Cofense PhishMe       | Phishing Awareness Training & Threat Simulations | Protect       | Awareness and Training               |
 | CrowdStrike       | Falcon Protect        | Next-Gen Anti-malware / EDR                      | Detect        | Security Continuous Monitoring       |
 | HashiCorp         | Vault                 | Secrets Management Platform                      | Protect       | Data Security                        |
