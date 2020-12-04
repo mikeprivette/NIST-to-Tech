@@ -14,7 +14,7 @@
 | Microsoft         | BitLocker                              | Endpoint Encryption               | Endpoint Encryption                              | Protect       | Data Security                        |
 | Microsoft         | Defender                               | Anti-Malware                      | Anti-Virus / Anti-Malware                        | Detect        | Detection Processes                  |
 | Okta              | Single Sign-On                         | Identity & Access Management      | Single Sign-On (SSO) and External Authentication | Protect       | Identity Management & Access Control |
-| OWASP             | AMASS (https://github.com/OWASP/Amass) | Asset Management                  | Attack Surface Mapping and Asset Discovery       | Identify      | Asset Management                     |
+| OWASP             | [Amass](https://github.com/OWASP/Amass) | Asset Management                  | Attack Surface Mapping and Asset Discovery       | Identify      | Asset Management                     |
 | Palo Alto         | Content Filtering                      | Next-Gen Firewall                 | Web Proxy / Web Content Filtering                | Protect       | Protective Technology                |
 | Palo Alto         | Firewall                               | Next-Gen Firewall                 | Firewall                                         | Protect       | Protective Technology                |
 | Palo Alto         | IDS/IPS                                | Next-Gen Firewall                 | Intrusion Detection/Protection                   | Protect       | Protective Technology                |
