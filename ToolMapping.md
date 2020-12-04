@@ -1,24 +1,30 @@
-| Vendor            | Technology            | Description                                      | NIST Function | NIST Category                        |
-|-------------------|-----------------------|--------------------------------------------------|---------------|--------------------------------------|
-| AlgoSec           | Firewall Analyzer     | Firewall Rule Analysis                           | Detect        | Security Continuous Monitoring       |
-| Area 1 Security   | Horizon               | Anti-Phishing and Email Protection               | Protect       | Protective Technology                |
-| Armis             | Armis Platform        | Asset Management / Secure OT/ICS                 | Identify      | Asset Management                     |
-| Bugcrowd          | Vulnerability Disclosure | Vulnerability Monitoring / Public Disclosure  | Identify      | Risk Assessment                      |
-| Cofense           | Cofense PhishMe       | Phishing Awareness Training & Threat Simulations | Protect       | Awareness and Training               |
-| CrowdStrike       | Falcon Protect        | Next-Gen Anti-malware / EDR                      | Detect        | Security Continuous Monitoring       |
-| HashiCorp         | Vault                 | Secrets Management Platform                      | Protect       | Data Security                        |
-| Microsoft         | Azure Key Vault       | Secrets Management Platform                      | Protect       | Data Security                        |
-| Microsoft         | BitLocker             | Endpoint Encryption                              | Protect       | Data Security                        |
-| Microsoft         | Defender              | Anti-Virus / Anti-Malware                        | Detect        | Detection Processes                  |
-| Okta              | Single Sign-On        | Single Sign-On (SSO) and External Authentication | Protect       | Identity Management & Access Control |
-| Palo Alto         | Content Filtering     | Web Proxy / Web Content Filtering                | Protect       | Protective Technology                |
-| Palo Alto         | Firewall              | Firewall                                         | Protect       | Protective Technology                |
-| Palo Alto         | IDS/IPS               | Intrusion Detection/Protection                   | Protect       | Protective Technology                |
-| Palo Alto         | IDS/IPS               | Intrusion Detection/Protection                   | Detect        | Security Continuous Monitoring       |
-| PingIdentity      | PingOne               | SSO and External Authentication                  | Protect       | Identity Management & Access Control |
-| Proofpoint        | Email Protection      | Anti-Phishing and Email Protection               | Protect       | Protective Technology                |
-| Qualys            | Vulnerability Scanner | Vulnerability Scanner                            | Identify      | Asset Management                     |
-| Qualys            | Vulnerability Scanner | Vulnerability Scanner                            | Detect        | Detection Processes                  |
-| SecurityScorecard | Security Ratings      | Third Party Risk Assessment                      | Protect       | Data Security                        |
-| Tanium            | Tanium Core           | Next-Gen Anti-malware / EDR                      | Detect        | Security Continuous Monitoring       |
-| Tanium            | Tanium Configuration  | Configuration Monitoring                         | Detect        | Security Continuous Monitoring       |
+| Vendor            | Technology               | Category                          | Description                                      | NIST Function | NIST Category                        |
+|-------------------|--------------------------|-----------------------------------|--------------------------------------------------|---------------|--------------------------------------|
+| AlgoSec           | Firewall Analyzer        | Policy Management                 | Firewall Rule Analysis                           | Detect        | Security Continuous Monitoring       |
+| Area 1 Security   | Horizon                  | Anti-Phishing                     | Anti-Phishing and Email Protection               | Protect       | Protective Technology                |
+| Armis             | Armis Platform           | IoT / OT Security                 | Asset Management / Secure OT/ICS                 | Identify      | Asset Management                     |
+| Bugcrowd          | Vulnerability Disclosure | Application Security              | Vulnerability Monitoring / Public Disclosure     | Identify      | Risk Assessment                      |
+| Cofense           | Cofense PhishMe          | Anti-Phishing                     | Phishing Awareness Training & Threat Simulations | Protect       | Awareness and Training               |
+| CrowdStrike       | Falcon Protect           | Endpoint Detection and Response   | Next-Gen Anti-malware / EDR                      | Detect        | Security Continuous Monitoring       |
+| HashiCorp         | Vault                    | Secrets Management                | Secrets Management Platform                      | Protect       | Data Security                        |
+| JupiterOne        | J1 Platform              | Cloud Security Posture Management | Asset Management                                 | Identify      | Asset Management                     |
+| JupiterOne        | J1 Platform              | Cloud Security Posture Management | Configuration Monitoring                         | Detect        | Security Continuous Monitoring       |
+| JupiterOne        | J1 Platform              | Cloud Security Posture Management | Compliance Monitoring                            | Identify      | Risk Assessment                      |
+| Microsoft         | Azure Key Vault          | Secrets Management                | Secrets Management Platform                      | Protect       | Data Security                        |
+| Microsoft         | BitLocker                | Endpoint Encryption               | Endpoint Encryption                              | Protect       | Data Security                        |
+| Microsoft         | Defender                 | Anti-Malware                      | Anti-Virus / Anti-Malware                        | Detect        | Detection Processes                  |
+| Okta              | Single Sign-On           | Identity & Access Management      | Single Sign-On (SSO) and External Authentication | Protect       | Identity Management & Access Control |
+| Palo Alto         | Content Filtering        | Next-Gen Firewall                 | Web Proxy / Web Content Filtering                | Protect       | Protective Technology                |
+| Palo Alto         | Firewall                 | Next-Gen Firewall                 | Firewall                                         | Protect       | Protective Technology                |
+| Palo Alto         | IDS/IPS                  | Next-Gen Firewall                 | Intrusion Detection/Protection                   | Protect       | Protective Technology                |
+| Palo Alto         | IDS/IPS                  | Next-Gen Firewall                 | Intrusion Detection/Protection                   | Detect        | Security Continuous Monitoring       |
+| PingIdentity      | PingOne                  | Identity & Access Management      | SSO and External Authentication                  | Protect       | Identity Management & Access Control |
+| Proofpoint        | Email Protection         | Anti-Phishing                     | Anti-Phishing and Email Protection               | Protect       | Protective Technology                |
+| Qualys            | Vulnerability Scanner    | Vulnerability Management          | Vulnerability Scanner                            | Identify      | Asset Management                     |
+| Qualys            | Vulnerability Scanner    | Vulnerability Management          | Vulnerability Scanner                            | Detect        | Detection Processes                  |
+| Secberus          | Secberus Platform        | Cloud Security Posture Management | Asset Management                                 | Identify      | Asset Management                     |
+| Secberus          | Secberus Platform        | Cloud Security Posture Management | Configuration Monitoring                         | Detect        | Security Continuous Monitoring       |
+| Secberus          | Secberus Platform        | Cloud Security Posture Management | Compliance Monitoring                            | Identify      | Risk Assessment                      |
+| SecurityScorecard | Security Ratings         | Third-Party Security              | Third Party Risk Assessment                      | Protect       | Data Security                        |
+| Tanium            | Tanium Core              | Endpoint Detection and Response   | Next-Gen Anti-malware / EDR                      | Detect        | Security Continuous Monitoring       |
+| Tanium            | Tanium Configuration     | Endpoint Detection and Response   | Configuration Monitoring                         | Detect        | Security Continuous Monitoring       |
