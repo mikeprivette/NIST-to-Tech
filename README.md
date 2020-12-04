@@ -23,7 +23,7 @@ This project is meant to be a guide and a starting point to help the community i
 ## Contributing
 
 Please feel free to fork and/or add issues/PRs to help make this work better for everyone.\
-I have no affiliation with any vendors listed here, so feel free to challenge and/or move things around.\
+Feel free to challenge categorizations and move things around where it makes sense.\
 If anyone has a better way to display this, I'm all ears! 👂
 
 ## Discoverability
