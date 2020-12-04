@@ -28,6 +28,6 @@ If anyone has a better way to display this, I'm all ears! 👂
 
 ## Discoverability
 
-infosec, information security, cybersec, cyber security, cybersecurity, netsec, hacking\
+infosec, information security, cybersec, cyber security, cybersecurity, netsec, vulnerability, disclosure, hacking\
 pentest, penetration test, red team, blue team, purple team\
-nist, nist csf, cybersercurity framework, identify, detect, protect, respond, recover
+nist, nist csf, cybersercurity framework, identify, detect, protect, respond, recover, nist 800-53, 800-53, nist 800-53-ra5
