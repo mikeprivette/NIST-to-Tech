@@ -10,7 +10,7 @@ The framework focuses on using business drivers to guide cybersecurity activitie
 
 ## The Technology
 
-What's not included in the framework, however (and rightfully so), is a guide on how to leverage the many various cybersecurity technologies in the market today to achieve the goals the framework.
+What's not included in the framework, however (and rightfully so), is a guide on how to leverage the many various cybersecurity technologies and open-source tools available today to achieve the goals of the framework.
 
 Organizations are all complex in different ways. Technology and it's implementation is nuanced and results can often vary. There is no one-size-fits-all or truisms when it comes to technology, other than the fact that every organization needs technology and needs ways to secure their business.
 
