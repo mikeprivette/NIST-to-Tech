@@ -20,7 +20,10 @@ Looking for a more in-depth analysis on cybersecurity technologies and how you c
 
 ## The Tools
 
-[Here is the mapping](ToolMapping.md).
+Here is the mapping:
+
+* [Markdown Format](ToolMapping.md)
+* [Google Sheets Format](https://docs.google.com/spreadsheets/d/1r9KqKEZazToBl4-crVrSlEAEIXUbhaFK9lpQi7h50WE/edit?usp=sharing)
 
 ## Contributing
 
