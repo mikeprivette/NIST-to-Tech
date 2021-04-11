@@ -8,6 +8,12 @@ Recognizing the national and economic security of the United States depends on t
 
 The framework focuses on using business drivers to guide cybersecurity activities and considering cybersecurity risks as part of the organization’s risk management processes.
 
+## Why the NIST CSF
+
+It’s a helpful way to relate cybersecurity tools to the NIST CSF capabilities.
+
+NIST isn’t applicable to everyone, but it’s a common way to speak and maps well to other frameworks. It was useful for me on a few projects, and I hadn’t seen anything like this before in the wild, so I thought others would find it valuable too.
+
 ## The Technology
 
 What's not included in the framework, however (and rightfully so), is a guide on how to leverage the many various cybersecurity technologies and open-source tools available today to achieve the goals of the framework.
