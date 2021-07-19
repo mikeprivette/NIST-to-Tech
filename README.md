@@ -22,7 +22,7 @@ Organizations are all complex in different ways. Technology and it's implementat
 
 This project is meant to be a guide and a starting point to help the community in making cybersecurity technology decisions that map to the NIST CSF. This will give you a framework to see how your current tools measure up and see what you may be missing and need to consider.
 
-Looking for a more in-depth analysis on cybersecurity technologies and how you can get the most out of them as a buyer or investor? Check out the [Cybersecurity Market Insights](https://signup.fractionconsulting.co) newsletter for more.
+Looking for a more in-depth analysis on cybersecurity technologies and how you can get the most out of them as a buyer or investor? Check out [Return on Security](https://www.returnonsecurity.com) for more.
 
 ## The Tools
 
