@@ -24,11 +24,11 @@ There is no  one-size-fits-all or truisms when it comes to technology, other tha
 
 This repository is a starting point to help the community make technology decisions that map to the  NIST CSF. It will give you a framework to see how your current tools measure up and see what you may be missing and need to consider.
 
-Looking for a more in-depth analysis on cybersecurity ceoncepts and technologies? Check out [Return on Security](https://www.returnonsecurity.com).
+Looking for a more in-depth analysis on cybersecurity concepts and technologies? Check out [Return on Security](https://www.returnonsecurity.com) and the [Security, Funded newsletter](https://securityfunded.com).
 
 ## The Tools
 
-Here is the mapping:
+Here are the mappings:
 
 * [Markdown Format](ToolMapping.md)
 * [Google Sheets Format](https://docs.google.com/spreadsheets/d/1r9KqKEZazToBl4-crVrSlEAEIXUbhaFK9lpQi7h50WE/edit?usp=sharing)
