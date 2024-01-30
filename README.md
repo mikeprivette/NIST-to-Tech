@@ -18,13 +18,13 @@ NIST isn’t applicable to everyone, but it’s a common way to speak and  maps 
 
 What's not included in the framework is  a guide on how to apply technology. There are so many technologies and open-source tools available to achieve the goals of the  framework.
 
-Organizations are all complex in different ways. Technology and it's  implementation requires nuance and results can often vary. 
+Organizations are all complex in different ways. Technology and its implementation require nuance, and results can often vary. 
 
 There is no  one-size-fits-all or truisms when it comes to technology, other than the  fact that every organization needs technology and needs ways to secure  their business.
 
 This repository is a starting point to help the community make technology decisions that map to the  NIST CSF. It will give you a framework to see how your current tools measure up and see what you may be missing and need to consider.
 
-Looking for a more in-depth analysis on cybersecurity concepts and technologies? Check out [Return on Security](https://www.returnonsecurity.com) and the [Security, Funded newsletter](https://securityfunded.com).
+Looking for a more in-depth analysis of cybersecurity concepts and technologies? Check out [Return on Security](https://www.returnonsecurity.com).
 
 ## The Tools
 
@@ -43,4 +43,4 @@ If anyone has a better way to display this, I'm all ears! 👂
 
 infosec, information security, cybersec, cyber security, cybersecurity, netsec, vulnerability, disclosure, hacking\
 pentest, penetration test, red team, blue team, purple team\
-nist-to-tech, nist-to-tools, nist tools, nist, nist csf, cybersercurity framework, identify, detect, protect, respond, recover, nist 800-53, 800-53, nist 800-53-ra5
+nist-to-tech, nist-to-tools, nist tools, nist, nist csf, cybersecurity framework, identify, detect, protect, respond, recover, nist 800-53, 800-53, nist 800-53-ra5
